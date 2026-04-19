@@ -1,4 +1,4 @@
-# Hi, I'm Shuaib Abdulhaqq 👋
+# Hi, I'm Shuaib Abdulhaqq
 
 Frontend Developer focused on building clean, responsive, and
 performant web applications with React and modern JavaScript.
@@ -11,7 +11,7 @@ and Python — which sharpens how I think about users and products.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,7 +33,7 @@ and Python — which sharpens how I think about users and products.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
@@ -46,7 +46,7 @@ and Python — which sharpens how I think about users and products.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Shuaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRxhaqq&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -54,7 +54,7 @@ and Python — which sharpens how I think about users and products.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - 🏅 NITDA / NCAIR — Data Science Beginners (2025)
 - 🏅 NITDA / NCAIR — Intermediate AI & Machine Learning with Python (2023)
